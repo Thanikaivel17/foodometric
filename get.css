@@ -1,0 +1,15 @@
+.page-content{
+    background-image: url("image_1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.img-logo{
+    width:100%;
+}
+.firstheading h1{
+    font-size: 20px;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+
+}
